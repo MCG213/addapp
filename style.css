@@ -1,12 +1,55 @@
-#title-colegio {
-text-align: center;
-color: rgb(255, 255, 255);
-background-color: rgb(0, 0, 0);
-font-size: 60px;
-margin: 0px;
-padding: 10px;
-border-bottom: 60px solid rgb(205, 79, 79);
-}
 body{
-    margin: 0px;
+    background-color: pink;
+}
+#cardhead{
+    background-color: rgb(47, 151, 211);
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+    overflow: hidden;
+    padding: 0%;
+    width: 100%;
+}
+.card{  
+    max-width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0% !important;
+    border: 0%;
+    border-top-left-radius: 0%;
+    border-top-right-radius: 0%;
+}
+#bord{
+    padding-top: 10%;
+}
+.titu{
+    text-align: center;
+}
+#card-title2{
+    text-align: center;
+    font-size: 23.69999999px;
+    padding-left: 0.5%;
+    padding-right: 0.5%;
+    padding-top: 0.5%;
+}
+#card-title{
+    text-align: center;
+}
+#spa{
+    padding: 2%;
+}
+#Correcto{
+    text-align: center;
+    background-color: rgb(62, 153, 62);
+    padding: 2%;
+    border-radius: 5px;
+    
+}
+#spa2{
+    padding: 10%;
+}
+#col{
+    text-align: center;
+    font-size: small;
 }
